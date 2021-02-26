@@ -1,5 +1,5 @@
 # training-test
-This is a training repository fot thr Rep Research training at NCEAS
+This is a training repository fot the Rep Research training at NCEAS
 
 I like
 
